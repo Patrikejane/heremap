@@ -1,4 +1,5 @@
 # here-map
+Sample Vue project to understand HERE MAP 
 
 ## Project setup
 ```
